@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANTHONYIAN
-- 👀 I’m interested in Computer Neyworking and Network Automation combine with penetrations.
-- 🌱 I’m currently learning at Cisco Networking Academy CCNA.
+- 👀 I’m interested in Computer Networking and Network Automation combine with penetrations testing.
+- 🌱 I’m currently learning at Cisco Networking Academy CCNA and I have a finished certificates in Udemy & CISCO.
 - 💞️ I’m looking to collaborate on Network Infrastructures.
 - 📫 How to reach me here terradoanthony000@gmail.com
 - 😄 Pronouns: he/him
