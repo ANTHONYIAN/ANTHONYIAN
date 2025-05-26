@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ANTHONYIAN
-- 👀 I’m interested in Computer Networking and Network Automation combine with penetration testing.
-- 🌱 I’m currently learning at Cisco Networking Academy CCNA and I have a finished certificates in Udemy & CISCO.
-- 💞️ I’m looking to collaborate on Network Infrastructures.
-- 📫 How to reach me here terradoanthony000@gmail.com
+- 👀 I’m interested in computer networking and network automation combine with penetration testing.
+- 🌱 I’m currently learning at TechAcademy & I have a currently finished my trainings/certificates in Udemy, CISCO SKILLS FOR ALL, COURSERA, MICROSOFT, AWS.
+- 💞️ I’m looking to collaborate on network infrastructures and data centre.
+- 📫 How to reach me here terradoanthony000@gmail.com / PH 63+ 09665964825
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Even though most folks think network engineers just “fix your Wi-Fi,” a huge chunk of the job is actually planning and simulating entire global networks in advance—so you never have to call “tech support” when your Zoom crashes! 
 
